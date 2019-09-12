@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/suuynyuy/NetBeansProjects/Projet%20Tutore/src/java/servlets/consultation/PatientChoosesDoctor.java</file>
+            <file>file:/home/suuynyuy/NetBeansProjects/Projet%20Tutore/web/WEB-INF/medecinConsultation.jsp</file>
+            <file>file:/home/suuynyuy/NetBeansProjects/Projet%20Tutore/src/java/servlets/consultation/ConsultationServlet.java</file>
+            <file>file:/home/suuynyuy/NetBeansProjects/Projet%20Tutore/src/java/servlets/consultation/DoctorHome.java</file>
+            <file>file:/home/suuynyuy/NetBeansProjects/Projet%20Tutore/src/java/servlets/connection/Login.java</file>
+            <file>file:/home/suuynyuy/NetBeansProjects/Projet%20Tutore/src/java/servlets/consultation/PatientHome.java</file>
+            <file>file:/home/suuynyuy/NetBeansProjects/Projet%20Tutore/web/WEB-INF/patientHome.jsp</file>
+            <file>file:/home/suuynyuy/NetBeansProjects/Projet%20Tutore/src/java/servlets/consultation/PatientModifyInfo.java</file>
+        </group>
+    </open-files>
+</project-private>

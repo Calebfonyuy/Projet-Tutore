@@ -1,0 +1,5 @@
+beans.personne
+beans.sante
+persist
+servlets.connection
+servlets.registration
